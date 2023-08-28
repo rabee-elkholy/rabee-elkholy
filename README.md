@@ -8,7 +8,7 @@ A software developer specialized in Android development, proficient in Java, Kot
 
 🔭 I’m currently working on [Car Mate App](https://play.google.com/store/apps/details?id=com.eyesler.carmate&pli=1)
 
-🧠 I'm currently learning IoT Socket ,koin.
+🧠 I'm currently learning IoT Socket ,koin and Ktor.
 
 📫 You can contact me at  rabeeaelkholy123@gmail.com
 
@@ -34,8 +34,4 @@ A software developer specialized in Android development, proficient in Java, Kot
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabee-elkholy&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabee-elkholy&show_icons=true&locale=en&layout=compact" alt="rabee-elkholy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabee-elkholy&show_icons=true&locale=en" alt="rabee-elkholy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabee-elkholy&" alt="rabee-elkholy" /></p
