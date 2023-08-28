@@ -14,7 +14,7 @@ A software developer specialized in Android development, proficient in Java, Kot
 
 💬 Ask me about **Java, Kotlin and Dart.**
 
-https://www.facebook.com/rabeElkholy?mibextid=ZbWKwL
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
