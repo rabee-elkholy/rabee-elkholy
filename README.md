@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rabee-Elkholy</h1>
-A software developer specialized in Android development, proficient in Java, Kotlin and Dart.
+A software developer specialized in Android development with 3 years of experience in building high-quality, user-friendly mobile apps. Strong in both Kotlin and Java, UI/UX design, and clean architecture principles.
 <br><br>
-
-🚀 Passionate Android developer with 3 years of experience in building high-quality, user-friendly mobile apps. Strong in both Kotlin and Java, UI/UX design, and clean architecture principles.
 
 🔭 I’m currently working on [Car Mate App](https://play.google.com/store/apps/details?id=com.eyesler.carmate&pli=1)
 
