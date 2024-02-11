@@ -2,7 +2,7 @@
 A software developer specialized in Android development, proficient in Java, Kotlin and Dart.
 <br><br>
 
-🚀  I'm Android Developer.
+🚀 Passionate Android developer with 3 years of experience in building high-quality, user-friendly mobile apps. Strong in both Kotlin and Java, UI/UX design, and clean architecture principles.
 
 🔭 I’m currently working on [Car Mate App](https://play.google.com/store/apps/details?id=com.eyesler.carmate&pli=1)
 
