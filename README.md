@@ -2,9 +2,7 @@
 A software developer specialized in Android development, proficient in Java, Kotlin and Dart.
 <br><br>
 
-🌍  I'm based in Egypt
-
-🚀  I'm Android Developer - Part Time at Eyesler Technologies Pty Ltd.
+🚀  I'm Android Developer.
 
 🔭 I’m currently working on [Car Mate App](https://play.google.com/store/apps/details?id=com.eyesler.carmate&pli=1)
 
